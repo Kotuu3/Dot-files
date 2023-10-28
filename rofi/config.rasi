@@ -1,0 +1,24 @@
+//@theme "/home/kotuu3/.local/share/rofi/themes/nord.rasi"
+//@theme "/home/kotuu3/.local/share/rofi/themes/nord.rasi"
+//@theme "/usr/share/rofi/themes/catpuccin.rasi"
+
+configuration{
+    modi: "run,drun,window";
+    icon-theme: "Oranchelo";
+    show-icons: true;
+    terminal: "alacritty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: "   Apps ";
+    display-run: "   Run ";
+    display-window: " 﩯  Window";
+    display-Network: " 󰤨  Network";
+    sidebar-mode: true;
+}
+
+//@theme "catppuccin-frappe"
+
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+@theme "/usr/share/rofi/themes/catpuccin-frappe1.rasi"
